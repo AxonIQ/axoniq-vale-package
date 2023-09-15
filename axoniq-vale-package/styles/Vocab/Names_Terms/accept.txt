@@ -1,4 +1,5 @@
 APIs?
+AWS
 BOMs?
 CQRS
 Datadog
@@ -26,10 +27,12 @@ OAuth
 OSGi
 Postgres
 PostgreSQL
+PUT
 REST
 SSH
 SSL
 TCP
+TLS
 Testcontainers
 URIs?
 URLs?
