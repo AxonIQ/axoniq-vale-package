@@ -22,6 +22,7 @@ JUnit
 Kafka
 Kotlin
 Logback
+LTS
 Micronaut
 Mockito
 OAuth
