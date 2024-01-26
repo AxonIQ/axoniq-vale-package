@@ -18,6 +18,7 @@ exceptions:
   - Axon Synapse
   - AxonIQ
   - AxonIQ Cloud
+  - AxonIQ Console
   - AxonIQ Library
   - CLI
   - Code
