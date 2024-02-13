@@ -38,6 +38,8 @@ exceptions:
   - Postman
   - REPL
   - Studio
+  - Spring Boot
+  - SpringBoot
   - TypeScript
   - URLs
   - Visual
