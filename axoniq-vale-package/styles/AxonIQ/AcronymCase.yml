@@ -4,7 +4,7 @@ level: error
 ignorecase: true
 # swap maps tokens in form of bad: good
 swap:
-  api: API
+  "[^-]api": API    # Allow api as a suffix in module names like core-api
   apis: APIs
   bom: BOM
   dsl: DSL
@@ -23,3 +23,5 @@ swap:
   url: URL
   yaml: YAML
   yml: YML
+
+
