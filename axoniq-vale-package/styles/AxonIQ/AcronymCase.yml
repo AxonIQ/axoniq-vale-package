@@ -22,6 +22,4 @@ swap:
   uri: URI
   url: URL
   "[^.]yaml": YAML
-  yml: YML
-
-
+  "[^.]yml": YML
