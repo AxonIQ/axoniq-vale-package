@@ -25,6 +25,7 @@ exceptions:
   - Command-Query Responsibility Separation
   - Cosmos
   - Docker
+  - Docker Compose
   - Domain-Driven Design
   - Emmet
   - Event Sourcing
