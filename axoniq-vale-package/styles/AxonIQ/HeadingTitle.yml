@@ -4,3 +4,4 @@ link: 'https://developers.google.com/style/capitalization#capitalization-in-titl
 level: error
 scope: heading.h1
 match: $title
+style: Chicago
