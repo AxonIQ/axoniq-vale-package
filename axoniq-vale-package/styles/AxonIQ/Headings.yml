@@ -12,20 +12,19 @@ indicators:
   - ':'
 exceptions:
   - Azure
+  - Axon  
   - Axon Framework
   - Axon Server
   - Axon Synapse
-  - Axon
+  - AxonIQ  
   - AxonIQ Cloud
   - AxonIQ Console
   - AxonIQ Library
-  - AxonIQ
   - CLI
-#  - Code
   - Command-Query Responsibility Separation
   - Cosmos
+  - Docker  
   - Docker Compose
-  - Docker
   - Domain-Driven Design
   - Emmet
   - Event Sourcing
