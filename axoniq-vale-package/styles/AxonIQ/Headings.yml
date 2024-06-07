@@ -13,15 +13,23 @@ indicators:
 exceptions:
   - Azure
   - Axon 
+  - Axon AMQP
+  - Axon Bill of Materials
   - Axon Configuration
   - Axon Disruptor
   - Axon Framework
+  - Axon Kotlin
+  - Axon Kotlin Test
   - Axon Messaging
   - Axon Metrics
   - Axon Micrometer
   - Axon Modelling
+  - Axon Mongo
+  - Axon Multi Tenancy
+  - Axon Reactor
   - Axon Server
   - Axon Server Connector
+  - Axon Spring Cloud
   - Axon Synapse
   - Axon Test
   - Axon Tracing
@@ -39,6 +47,9 @@ exceptions:
   - Event Sourcing
   - gRPC
   - I
+  - JobRunr
+  - JobRunr Pro
+  - Kotlin
   - Kubernetes
   - Linux
   - macOS
@@ -48,6 +59,7 @@ exceptions:
   - Postman
   - REPL
   - Studio
+  - Spring
   - Spring Boot
   - Spring Boot Starter
   - SpringBoot

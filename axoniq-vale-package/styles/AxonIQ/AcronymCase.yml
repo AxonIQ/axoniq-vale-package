@@ -10,6 +10,7 @@ swap:
   apis: APIs
   cdi: CDI
   bom: BOM
+  boms: BOMs
   dsl: DSL
   dsls: DSLs
   grpc: gRPC
