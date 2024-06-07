@@ -47,6 +47,8 @@ exceptions:
   - Event Sourcing
   - gRPC
   - I
+  - Jackson
+  - Java
   - JobRunr
   - JobRunr Pro
   - JPA
