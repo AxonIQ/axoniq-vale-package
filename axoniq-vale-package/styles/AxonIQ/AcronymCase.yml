@@ -4,8 +4,11 @@ level: error
 ignorecase: true
 # swap maps tokens in form of bad: good
 swap:
+  amqp: AMQP
+  aot: AOT
   "[^-]api": API    # Allow api as a suffix in module names like core-api
   apis: APIs
+  cdi: CDI
   bom: BOM
   dsl: DSL
   dsls: DSLs

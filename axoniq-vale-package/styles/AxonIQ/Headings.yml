@@ -12,10 +12,19 @@ indicators:
   - ':'
 exceptions:
   - Azure
-  - Axon  
+  - Axon 
+  - Axon Configuration
+  - Axon Disruptor
   - Axon Framework
+  - Axon Messaging
+  - Axon Metrics
+  - Axon Micrometer
+  - Axon Modelling
   - Axon Server
+  - Axon Server Connector
   - Axon Synapse
+  - Axon Test
+  - Axon Tracing
   - AxonIQ  
   - AxonIQ Cloud
   - AxonIQ Console
@@ -35,10 +44,12 @@ exceptions:
   - macOS
   - Marketplace
   - MongoDB
+  - OpenTelemetry
   - Postman
   - REPL
   - Studio
   - Spring Boot
+  - Spring Boot Starter
   - SpringBoot
   - TypeScript
   - URLs
