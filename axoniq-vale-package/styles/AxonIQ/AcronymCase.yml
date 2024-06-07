@@ -16,6 +16,7 @@ swap:
   grpc: gRPC
   "https[^:]": HTTPS
   "http[^:s] ": HTTP
+  jpa: JPA
   json: JSON
   jvm: JVM
   jvms: JVMs
