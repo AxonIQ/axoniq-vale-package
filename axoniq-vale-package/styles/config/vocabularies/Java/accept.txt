@@ -6,6 +6,7 @@
 [Dd]eserializers?
 [J]avadoc
 JVMs?
+JPA
 POJOs?
 [Ss]erializable
 [Ss]erialization
