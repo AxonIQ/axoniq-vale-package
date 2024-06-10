@@ -59,6 +59,7 @@ exceptions:
   - Marketplace
   - MongoDB
   - OpenTelemetry
+  - OpenTracing
   - Postman
   - REPL
   - Saga
