@@ -61,6 +61,8 @@ exceptions:
   - OpenTelemetry
   - Postman
   - REPL
+  - Saga
+  - Sagas
   - Studio
   - Spring
   - Spring Boot
