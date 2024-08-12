@@ -17,6 +17,7 @@ exceptions:
   - Axon Bill of Materials
   - Axon Configuration
   - Axon Disruptor
+  - Axon Firestarter
   - Axon Framework
   - Axon Kotlin
   - Axon Kotlin Test
