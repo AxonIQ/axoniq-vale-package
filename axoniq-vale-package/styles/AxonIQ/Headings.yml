@@ -77,3 +77,9 @@ exceptions:
   - Visual
   - VS
   - Windows
+  - Tenant Segment Factories
+  - TenantCommandSegmentFactory
+  - TenantQuerySegmentFactory
+  - TenantEventSegmentFactory
+  - TenantEventSchedulerSegmentFactory
+  - TenantEventProcessorControlSegmentFactory
