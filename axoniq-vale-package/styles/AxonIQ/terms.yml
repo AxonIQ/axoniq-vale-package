@@ -1,0 +1,13 @@
+extends: capitalization
+message: "'%s' should use sentence-style capitalization."
+level: error
+match: $sentence
+indicators:
+  - ':'
+exceptions:
+  - Tenant Segment Factories
+  - TenantCommandSegmentFactory
+  - TenantQuerySegmentFactory
+  - TenantEventSegmentFactory
+  - TenantEventSchedulerSegmentFactory
+  - TenantEventProcessorControlSegmentFactory
