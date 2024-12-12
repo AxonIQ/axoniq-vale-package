@@ -39,6 +39,7 @@ exceptions:
   - AxonIQ Console
   - AxonIQ Library
   - AxonIQ Documentation
+  - AxonIQ Playbook
   - CLI
   - Command-Query Responsibility Separation
   - Cosmos
