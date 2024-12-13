@@ -48,6 +48,9 @@ exceptions:
   - Domain-Driven Design
   - Emmet
   - Event Sourcing
+  - Event-Driven Architecture
+  - Event-Driven Architectures
+  - EDA
   - gRPC
   - I
   - Jackson
@@ -74,6 +77,7 @@ exceptions:
   - Spring Boot Starter
   - SpringBoot
   - TypeScript
+  - TL;DR
   - URLs
   - Visual
   - VS
