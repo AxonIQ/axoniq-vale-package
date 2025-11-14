@@ -11,6 +11,7 @@ match: $sentence
 indicators:
   - ':'
 exceptions:
+  - Avro
   - Axon
   - Axon AMQP
   - Axon Bill of Materials
