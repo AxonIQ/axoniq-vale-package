@@ -11,8 +11,7 @@ match: $sentence
 indicators:
   - ':'
 exceptions:
-  - Azure
-  - Axon 
+  - Axon
   - Axon AMQP
   - Axon Bill of Materials
   - Axon Configuration
@@ -34,30 +33,31 @@ exceptions:
   - Axon Synapse
   - Axon Test
   - Axon Tracing
-  - AxonIQ  
+  - AxonIQ
   - AxonIQ Cloud
   - AxonIQ Console
-  - AxonIQ Library
   - AxonIQ Documentation
+  - AxonIQ Library
   - AxonIQ Playbook
+  - Azure
   - CLI
   - Command-Query Responsibility Separation
   - Cosmos
-  - Docker  
+  - Docker
   - Docker Compose
   - Domain-Driven Design
+  - EDA
   - Emmet
   - Event Sourcing
   - Event-Driven Architecture
   - Event-Driven Architectures
-  - EDA
   - gRPC
   - I
+  - JPA
   - Jackson
   - Java
   - JobRunr
   - JobRunr Pro
-  - JPA
   - Kotlin
   - Kubernetes
   - Linux
@@ -71,20 +71,20 @@ exceptions:
   - SQL
   - Saga
   - Sagas
-  - Studio
   - Spring
   - Spring Boot
   - Spring Boot Starter
   - SpringBoot
-  - TypeScript
+  - Studio
   - TL;DR
-  - URLs
-  - Visual
-  - VS
-  - Windows
   - Tenant Segment Factories
   - TenantCommandSegmentFactory
-  - TenantQuerySegmentFactory
-  - TenantEventSegmentFactory
-  - TenantEventSchedulerSegmentFactory
   - TenantEventProcessorControlSegmentFactory
+  - TenantEventSchedulerSegmentFactory
+  - TenantEventSegmentFactory
+  - TenantQuerySegmentFactory
+  - TypeScript
+  - URLs
+  - VS
+  - Visual
+  - Windows
