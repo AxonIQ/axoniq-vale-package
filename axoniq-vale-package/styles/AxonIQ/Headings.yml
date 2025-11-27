@@ -35,11 +35,13 @@ exceptions:
   - Axon Test
   - Axon Tracing
   - AxonIQ
+  - Axoniq
   - AxonIQ Cloud
   - AxonIQ Console
   - AxonIQ Documentation
   - AxonIQ Library
   - AxonIQ Playbook
+  - Axoniq Platform
   - Azure
   - CLI
   - Command-Query Responsibility Separation
