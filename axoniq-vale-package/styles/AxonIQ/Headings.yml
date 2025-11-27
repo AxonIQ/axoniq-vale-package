@@ -49,6 +49,7 @@ exceptions:
   - Docker
   - Docker Compose
   - Domain-Driven Design
+  - Dropwizard
   - EDA
   - Emmet
   - Event Sourcing
@@ -68,6 +69,7 @@ exceptions:
   - macOS
   - Marketplace
   - MongoDB
+  - Micrometer
   - OpenTelemetry
   - OpenTracing
   - Postman

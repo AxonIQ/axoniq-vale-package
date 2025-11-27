@@ -6,7 +6,6 @@ swap:
   Antora: Antora
   Datadog: Datadog
   Dependabot: Dependabot
-  Dependabot: Dependabot
   Dropwizard: Dropwizard
   Dynatrace: Dynatrace
   Easymock : Easymock
@@ -20,6 +19,7 @@ swap:
   Kotlin: Kotlin
   Logback: Logback
   macOS: macOS
+  Micrometer: Micrometer
   Micronaut: Micronaut
   Mockito: Mockito
   OAuth: OAuth
