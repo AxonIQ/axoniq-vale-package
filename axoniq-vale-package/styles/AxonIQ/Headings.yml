@@ -30,6 +30,7 @@ exceptions:
   - Axon Reactor
   - Axon Server
   - Axon Server Connector
+  - Axon Server Proxy
   - Axon Spring Cloud
   - Axon Synapse
   - Axon Test
