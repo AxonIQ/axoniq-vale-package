@@ -1,5 +1,4 @@
 AMQP
-AND
 APIs?
 AWS
 BOMs?
