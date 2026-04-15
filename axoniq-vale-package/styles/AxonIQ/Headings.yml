@@ -14,11 +14,13 @@ exceptions:
   - Avro
   - Axon
   - Axon AMQP
-  - Axon Bill of Materials
+  - Axon Common
   - Axon Configuration
+  - Axon Conversion
   - Axon Disruptor
   - Axon Firestarter
   - Axon Framework
+  - Axon Framework Bill of Materials
   - Axon Kotlin
   - Axon Kotlin Test
   - Axon Messaging
@@ -35,6 +37,7 @@ exceptions:
   - Axon Synapse
   - Axon Test
   - Axon Tracing
+  - Axon Update
   - AxonIQ
   - Axoniq
   - AxonIQ Cloud
