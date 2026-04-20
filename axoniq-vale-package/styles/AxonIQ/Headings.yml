@@ -20,7 +20,6 @@ exceptions:
   - Axon Disruptor
   - Axon Firestarter
   - Axon Framework
-  - Axon Framework Bill of Materials
   - Axon Kotlin
   - Axon Kotlin Test
   - Axon Messaging
@@ -47,6 +46,7 @@ exceptions:
   - AxonIQ Playbook
   - Axoniq Platform
   - Azure
+  - Bill of Materials
   - CLI
   - Command-Query Responsibility Separation
   - Cosmos
