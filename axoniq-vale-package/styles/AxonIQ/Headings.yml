@@ -13,7 +13,6 @@ indicators:
 exceptions:
   - AI
   - Avro
-  - Axon
   - Axon AMQP
   - Axon Common
   - Axon Configuration
@@ -38,8 +37,7 @@ exceptions:
   - Axon Test
   - Axon Tracing
   - Axon Update
-  - AxonIQ
-  - Axoniq
+  - Axon
   - AxonIQ Cloud
   - AxonIQ Console
   - AxonIQ Documentation
@@ -48,6 +46,8 @@ exceptions:
   - Axoniq Framework
   - Axoniq Insights
   - Axoniq Platform
+  - Axoniq
+  - AxonIQ
   - Azure
   - Azure AD
   - Bill of Materials
@@ -75,7 +75,7 @@ exceptions:
   - Java
   - JobRunr
   - JobRunr Pro
-  - Keycloack
+  - Keycloak
   - Kotlin
   - Kubernetes
   - Linux
