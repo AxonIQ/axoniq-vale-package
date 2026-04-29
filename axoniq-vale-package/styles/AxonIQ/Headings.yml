@@ -11,6 +11,7 @@ match: $sentence
 indicators:
   - ':'
 exceptions:
+  - AI
   - Avro
   - Axon
   - Axon AMQP
@@ -45,8 +46,10 @@ exceptions:
   - AxonIQ Library
   - AxonIQ Playbook
   - Axoniq Framework
+  - Axoniq Insights
   - Axoniq Platform
   - Azure
+  - Azure AD
   - Bill of Materials
   - CLI
   - Command-Query Responsibility Separation
@@ -56,6 +59,7 @@ exceptions:
   - Docker Compose
   - Domain-Driven Design
   - Dropwizard
+  - DuckDB
   - Dynamic Consistency Boundary
   - Dynamic Consistency Boundaries
   - EDA
@@ -71,6 +75,7 @@ exceptions:
   - Java
   - JobRunr
   - JobRunr Pro
+  - Keycloack
   - Kotlin
   - Kubernetes
   - Linux
@@ -78,6 +83,9 @@ exceptions:
   - Marketplace
   - MongoDB
   - Micrometer
+  - OAuth2
+  - Okta
+  - OIDC
   - OpenTelemetry
   - OpenTracing
   - Postman
