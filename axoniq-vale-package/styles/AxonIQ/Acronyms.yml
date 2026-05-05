@@ -77,3 +77,36 @@ exceptions:
   - UUID    # Universally Unique Identifier, standard Java/database term
   - WARN    # Spring Boot Actuator health status constant / log level
   # TOAST, OID, BYTEA are suppressed per-page in rdbms-tuning.adoc via vale comments
+  # Access control / permission roles used as code constants
+  - ADMIN   # Permission role constant (Administrator)
+  - READ    # Permission role constant
+  - WRITE   # Permission role constant
+  - TOKEN   # Authentication token — well-known security term
+  # Networking / infrastructure acronyms universally known to the target audience
+  - CORS    # Cross-Origin Resource Sharing — standard web security term
+  - DNS     # Domain Name System — universally known
+  - HDD     # Hard Disk Drive — universally known hardware term
+  - LDAP    # Lightweight Directory Access Protocol — standard enterprise auth
+  - PEM     # Privacy-Enhanced Mail — standard TLS certificate file format
+  - PID     # Process ID — standard OS term
+  - SSD     # Solid State Drive — universally known hardware term
+  - UNIX    # Unix operating system — universally known
+  # Security / vulnerability identifiers
+  - CVE     # Common Vulnerabilities and Exposures — standard security identifier
+  - GHSA    # GitHub Security Advisory identifier
+  # Consensus / clustering
+  - RAFT    # Raft consensus algorithm — core protocol in Axon Server clustering
+  # AI / ML terms — increasingly standard in the industry
+  - CBOR    # Concise Binary Object Representation — analytics node wire format
+  - IDP     # Identity Provider — standard OAuth2/enterprise SSO term
+  - LLM     # Large Language Model — standard AI industry term
+  - MCP     # Model Context Protocol — AI tool integration standard
+  - NLP     # Natural Language Processing — standard AI term
+  # Database / storage types
+  - BLOB    # Binary Large Object — standard database term
+  - CLOB    # Character Large Object — standard database term
+  # Java ecosystem / configuration constants
+  - FAIL    # Failure state / logging configuration constant (e.g. log-on-fail settings)
+  - INFO    # Standard Java log level (SLF4J/Logback)
+  - LOG     # Log level / log file reference — ubiquitous in Java configuration
+  - NPE     # NullPointerException — universally known to Java developers
