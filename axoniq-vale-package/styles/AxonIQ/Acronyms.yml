@@ -1,0 +1,79 @@
+# This rule replaces Google.Acronyms (which is disabled in .vale.ini).
+# Vale does not support appending exceptions to upstream rules, so we maintain
+# the full rule here. If Google.Acronyms changes its patterns, sync the
+# 'first' and 'second' fields below.
+extends: conditional
+message: "Spell out '%s', if it's unfamiliar to the audience."
+link: 'https://developers.google.com/style/abbreviations'
+level: suggestion
+ignorecase: false
+# Ensures that the existence of 'first' implies the existence of 'second'.
+first: '\b([A-Z]{3,5})\b'
+second: '(?:\b[A-Z][a-z]+ )+\(([A-Z]{3,5})\)'
+# ... with the exception of these:
+exceptions:
+  # Standard Google exceptions
+  - API
+  - ASP
+  - CLI
+  - CPU
+  - CSS
+  - CSV
+  - DEBUG
+  - DOM
+  - DPI
+  - FAQ
+  - GCC
+  - GDB
+  - GET
+  - GPU
+  - GTK
+  - GUI
+  - HTML
+  - HTTP
+  - HTTPS
+  - IDE
+  - JAR
+  - JSON
+  - JSX
+  - LESS
+  - LLDB
+  - NET
+  - NOTE
+  - NVDA
+  - OSS
+  - PATH
+  - PDF
+  - PHP
+  - POST
+  - RAM
+  - REPL
+  - RSA
+  - SCM
+  - SCSS
+  - SDK
+  - SQL
+  - SSH
+  - SSL
+  - SVG
+  - TBD
+  - TCP
+  - TODO
+  - URI
+  - URL
+  - USB
+  - UTF
+  - XML
+  - XSS
+  - YAML
+  - ZIP
+  # AxonIQ / Axon Framework additions
+  - AND     # Java/SQL logical operator, not an audience-unfamiliar acronym
+  - APM     # Application Performance Monitoring, standard in observability contexts
+  - DLQ     # Dead Letter Queue, well-established Axon Framework term
+  - DOWN    # Spring Boot Actuator health status constant
+  - ORM     # Object-Relational Mapping, universally known in Java ecosystem
+  - UTC     # Coordinated Universal Time, universally known timezone abbreviation
+  - UUID    # Universally Unique Identifier, standard Java/database term
+  - WARN    # Spring Boot Actuator health status constant / log level
+  # TOAST, OID, BYTEA are suppressed per-page in rdbms-tuning.adoc via vale comments
