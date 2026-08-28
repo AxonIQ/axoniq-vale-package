@@ -38,10 +38,15 @@ exceptions:
   - Axon Tracing
   - Axon Update
   - Axon
+  - Axoniq Cloud
   - AxonIQ Cloud
+  - Axoniq Console
   - AxonIQ Console
+  - Axoniq Documentation
   - AxonIQ Documentation
+  - Axoniq Library
   - AxonIQ Library
+  - Axoniq Playbook
   - AxonIQ Playbook
   - Axoniq Data Protection
   - Axoniq Framework
