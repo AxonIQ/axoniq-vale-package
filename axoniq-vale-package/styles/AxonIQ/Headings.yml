@@ -11,6 +11,8 @@ match: $sentence
 indicators:
   - ':'
 exceptions:
+  - AF4
+  - AF5
   - AI
   - Avro
   - Axon AMQP
@@ -31,7 +33,10 @@ exceptions:
   - Axon Reactor
   - Axon Server
   - Axon Server Connector
+  - Axon Server Google Marketplace Installation Guide
   - Axon Server Proxy
+  - Axon Server Query Language Guide
+  - Axon Server Upgrade Guides
   - Axon Spring Cloud
   - Axon Synapse
   - Axon Test
@@ -62,6 +67,7 @@ exceptions:
   - Command-Query Responsibility Separation
   - Cosmos
   - DCB
+  - Dead-Letter Queues
   - Docker
   - Docker Compose
   - Domain-Driven Design
@@ -74,6 +80,7 @@ exceptions:
   - Event Sourcing
   - Event-Driven Architecture
   - Event-Driven Architectures
+  - FAQ
   - gRPC
   - I
   - JPA
