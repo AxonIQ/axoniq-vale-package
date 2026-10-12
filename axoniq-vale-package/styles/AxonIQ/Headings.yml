@@ -102,6 +102,7 @@ exceptions:
   - OIDC
   - OpenTelemetry
   - OpenTracing
+  - PagerDuty
   - Postman
   - REPL
   - SQL
