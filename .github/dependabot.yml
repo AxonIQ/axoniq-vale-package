@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Keeps the actions used in .github/workflows up to date.
+  # Vale packages in .vale.ini are pinned by URL and upgraded manually (see styles/README.md).
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
